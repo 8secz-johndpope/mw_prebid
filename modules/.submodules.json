@@ -1,0 +1,29 @@
+{
+  "userId": [
+    "unifiedIdSystem",
+    "pubCommonIdSystem",
+    "id5IdSystem",
+    "parrableIdSystem",
+    "britepoolIdSystem",
+    "liveIntentIdSystem",
+    "lotamePanoramaId",
+    "merkleIdSystem",
+    "criteoIdSystem",
+    "netIdSystem",
+    "identityLinkIdSystem",
+    "sharedIdSystem",
+    "intentIqIdSystem",
+    "zeotapIdPlusIdSystem",
+    "haloIdSystem",
+    "quantcastIdSystem"
+  ],
+  "adpod": [
+    "freeWheelAdserverVideo",
+    "dfpAdServerVideo"
+  ],
+  "rtdModule": [
+    "browsiRtdProvider",
+    "audigentRtdProvider",
+    "jwplayerRtdProvider"
+  ]
+}
